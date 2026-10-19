@@ -167,8 +167,12 @@ Pour la régression logistique :
 |---|---:|---:|---:|
 | Entraînement | 0,83 | 0,45 | 0,86 |
 | Test | 0,55 | 0,28 | 0,80 |
+
+
 ![alt text](pics/matrice.png)
+
 Avec un seuil de classification fixé à `0,1`, le rappel sur le jeu de test atteint `0,97`.
+
 ![alt text](pics/prc.png)
 Une attention particulière est portée au rappel et aux scores F-beta afin de mieux détecter les salariés susceptibles de quitter l’entreprise.
 
