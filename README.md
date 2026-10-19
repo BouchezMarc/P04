@@ -31,6 +31,7 @@ extrait_eval.csv
 extrait_sirh.csv
 extrait_sondage.csv
 ```
+![alt text](pics/part.png)
 
 Les données sont reliées grâce aux identifiants salariés :
 
@@ -193,7 +194,7 @@ Les analyses réalisées comprennent :
 - l’analyse de l’impact de la satisfaction ;
 - l’analyse de l’ancienneté ;
 - l’étude de variables individuelles avec des graphiques scatter.
-![alt text](pics/part.png)
+
 
 
 Les valeurs SHAP peuvent être sauvegardées dans :
